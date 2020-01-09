@@ -1,20 +1,20 @@
 # ----
 # Site
 
-title: Cause Template
-url: https://clean-oryx.cloudvent.net
+title: caringdementia
+url: http://www.caringdementia.com/
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Jekyll template with example content for a not-for-profit organisation.
-author:
-  name:
-  email:
+author:Xiao,Chunhong
+  name:Chunhong
+  email:Xiao_Chunhong@outlook.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Cause Template
+  name: educational net for caregivers of people living with dementia
   links:
     - https://github.com/CloudCannon/cause-jekyll-template
 
